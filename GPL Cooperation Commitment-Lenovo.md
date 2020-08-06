@@ -1,4 +1,4 @@
-#Our Commitment 
+Our Commitment 
 
 Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, Lenovo commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced. 
 
@@ -10,7 +10,7 @@ Lenovo intends this Commitment to be irrevocable, and binding and enforceable ag
 
 Lenovo may modify this Commitment by publishing a new edition on this page or a successor location. 
 
-#Definitions 
+Definitions 
 
 ‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation. 
 
